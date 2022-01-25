@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/weather?q=Lucknow&appid=120db43a2f90b8476dc604b556dfe60c
